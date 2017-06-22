@@ -1,2 +1,2 @@
-# connect
-Connect - Continuous Delivery Platform
+# Connect
+Connect - Continuous Delivery Platform /from ClearPoint/

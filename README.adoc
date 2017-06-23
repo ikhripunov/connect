@@ -1,4 +1,4 @@
-* Connect - Contunuous delivery platform by ClearPoint NZ
+# Connect - Contunuous delivery platform by ClearPoint NZ
 
 :link-github-project-ghpages: https://clearpointnz.github.io/connect
 

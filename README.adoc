@@ -1,4 +1,4 @@
-# Connect - Continuous delivery platform by ClearPoint NZ
+# Connect - Continuous delivery platform _by ClearPoint NZ_
 
 :link-github-project-ghpages: https://clearpointnz.github.io/connect
 

@@ -1,5 +1,5 @@
 Asciidoctor Demo
-===============
+======================
 ////
 Big ol' comment
 
@@ -140,12 +140,12 @@ after this brief interruption.
 
 == ...and we're back!
 
-Want to see a image:tiger.png[Tiger]?
+Want to see a image:images/tiger.png[Tiger]?
 
 Do you feel safer with the tiger in a box?
 
 .Tiger in a box
-image::tiger.png[]
+image::images/tiger.png[]
 
 include::includes/include.adoc[]
 

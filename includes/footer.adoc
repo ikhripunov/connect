@@ -1,2 +1,3 @@
 
-*__Connect by link:https://clearpoint.co.nz[ClearPoint Ltd]__*
+---
+*__Connect by link:https://clearpoint.co.nz[ClearPoint Ltd]__*  ©2017

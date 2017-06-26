@@ -2,6 +2,7 @@ image::images/connect-logo.png[]
 = Connect - Continuous delivery platform
 by link:https://clearpoint.co.nz[ClearPoint]
 :toc: left
+
 == Introduction
 Connect is and enterprise level continuous delivery platform built with open source technologies and best practice approaches to building modern software with containerisation via docker, orchestration by Kubernetes and extracted infrastructure provider layer.  Currently only supported on AWS.
 
@@ -58,8 +59,15 @@ Best practice on how to build your infrastructure as code
 
 === Guide to automated acceptance testing
 
-== Support
+== Getting Help
 
+=== ClearPoint Organisation on Github
+    http://github.com/ClearPointNZ
+
+=== Source repositories
+* Main boostrap and documentation https://github.com/ClearPointNZ/connect
+
+=== Support
 For enterprise support please contact link:http://clearpoint.co.nz[ClearPoint] or email connect@clearpoint.co.nz
 
 == License

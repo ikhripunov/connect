@@ -1,4 +1,59 @@
-# Connect - Continuous delivery platform _by ClearPoint NZ_
+///include::includes/header.adoc[]
+image::images/connect-logo.png.png[]
+# Connect - Continuous delivery platform
+:toc: left
+## Introduction
+Connect is and enterprise level continuous delivery platform built with open source technologies and best practice approaches to building modern software with containerisation via docker, orchestration by Kubernetes and extracted infrastructure provider layer.  Currently only supported on AWS.
 
-:link-github-project-ghpages: https://clearpointnz.github.io/connect
+## Getting started/Installation
 
+Details here on how to boostrap the connect platform.
+
+### Bootstrapping on AWS
+
+### Developer setup on MiniKube
+link:https://github.com/kubernetes/minikube[Minikube] is our recommended approach to running your cluster on development machines.
+
+## Kubernetes
+Todo some stuff here in building clusters on AWS
+
+### Building clusters on AWS
+
+
+
+## The Pipeline and Tools
+
+All you need to create a CD Pipeline running inside it's own Kubernetes cluster
+
+### Jenkins
+
+### Nexus
+
+### Docker registry
+
+### The Connect Dashboard
+
+## Infrastructure as Code
+Best practice on how to build your infrastructure as code
+
+## Sample applications and shared libraries
+
+### Java
+
+#### Sample Apps
+
+#### Shared Libraries
+
+### NodeJS
+
+#### Sample Apps
+
+#### Shared Libraries
+
+### .Net Core
+
+#### Sample Apps
+
+#### Shared Libraries
+
+## E

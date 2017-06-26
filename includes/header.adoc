@@ -1,1 +1,2 @@
+:toc:
 I come from an include file.

@@ -1,5 +1,4 @@
 image::images/connect-logo.png[]
-= Connect - Continuous delivery platform
 by link:https://clearpoint.co.nz[ClearPoint]
 :toc: left
 
@@ -62,7 +61,7 @@ Best practice on how to build your infrastructure as code
 == Getting Help
 
 === ClearPoint Organisation on Github
-    http://github.com/ClearPointNZ
+link:http://github.com/ClearPointNZ[http://github.com/ClearPointNZ]
 
 === Source repositories
 * Main boostrap and documentation https://github.com/ClearPointNZ/connect

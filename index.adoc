@@ -1,6 +1,9 @@
 image::images/connect-logo.png[]
 by link:https://clearpoint.co.nz[ClearPoint]
 
+:toc:
+:toc-placement: left
+
 == Introduction
 Connect is and enterprise level continuous delivery platform built with open source technologies and best practice approaches to building modern software with containerisation via docker, orchestration by Kubernetes and extracted infrastructure provider layer.  Currently only supported on AWS.
 

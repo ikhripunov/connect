@@ -1,7 +1,7 @@
 image::images/connect-logo.png[]
 by link:https://clearpoint.co.nz[ClearPoint]
 
-:toc:
+:toc:[]
 :toc-placement: left
 
 == Introduction

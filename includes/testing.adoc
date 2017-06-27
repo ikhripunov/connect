@@ -1,0 +1,3 @@
+== Acceptance Tests
+
+=== Guide to automated acceptance testing

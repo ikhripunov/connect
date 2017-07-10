@@ -13,8 +13,8 @@ Connect is a collection of open source projects put together to help share best 
 
 The libraries are designed to be used either standalone or together and are grouped into the following areas:
 
+//TODO turn this into a table (image from connect ppt)
 image::images/connect-components.png[]
-
 
 include::includes/installation.adoc[]
 

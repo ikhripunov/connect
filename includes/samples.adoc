@@ -6,6 +6,9 @@
 
 ==== Shared Libraries
 
+.Repositories
+. Connect Release Tile: https://github.com/ClearPointNZ/connect-tile-release
+
 === NodeJS
 
 ==== Sample Apps

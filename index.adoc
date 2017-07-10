@@ -1,11 +1,23 @@
 image::images/connect-logo.png[]
 by link:https://clearpoint.co.nz[ClearPoint]
 
-:toc:[]
+= Connect - Continuous Delivery Platform
+Author <connect@clearpoint.co.nz>
+v1.0, 2017-07-07
+:toc: left
+:imagesdir: images
+:homepage: http://connect.cd
 
 
 == Introduction
-Connect is and enterprise level continuous delivery platform built with open source technologies and best practice approaches to building modern software with containerisation via docker, orchestration by Kubernetes and extracted infrastructure provider layer.  Currently only supported on AWS.
+Welcome to Connect - Continuous Delivery Platform.
+
+Connect is a collection of open source projects put together to help share best practice approaches to Continuous Delivery (CD) using containerisation (via Docker), orchestrated by Kubernetes.
+
+The libraries are designed to be used either standalone or together and are grouped into the following areas:
+
+image::images/connect-components.png[]
+
 
 include::includes/installation.adoc[]
 

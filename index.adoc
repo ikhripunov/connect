@@ -4,6 +4,8 @@ by link:https://clearpoint.co.nz[ClearPoint]
 = Connect - Continuous Delivery Platform
 Build by http://clearpoint.co.nz[ClearPoint] <connect@clearpoint.co.nz> v1.0 2017-07-07
 
+The repo for this Documentation can be found on Github: https://github.com/ClearPointNZ/connect
+
 == Introduction
 Welcome to Connect - Continuous Delivery Platform.
 

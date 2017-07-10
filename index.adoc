@@ -2,15 +2,7 @@ image::images/connect-logo.png[]
 by link:https://clearpoint.co.nz[ClearPoint]
 
 = Connect - Continuous Delivery Platform
-Build by http://clearpoint.co.nz[ClearPoint] <connect@clearpoint.co.nz> v1.0, 2017-07-07
-:doctype: book
-:compat-mode!:
-:page-layout!:
-:toc: left
-:toclevels: 2
-:imagesdir: images
-:homepage: http://connect.cd
-
+Build by http://clearpoint.co.nz[ClearPoint] <connect@clearpoint.co.nz> v1.0 2017-07-07
 
 == Introduction
 Welcome to Connect - Continuous Delivery Platform.

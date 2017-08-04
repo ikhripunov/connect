@@ -1,6 +1,6 @@
 == The Pipeline and Tools
 
-All you need to create a CD Pipeline running inside it's own Kubernetes cluster.
+All you need to create a CD Pipeline that runs inside its own Kubernetes cluster.
 
 === Jenkins
 

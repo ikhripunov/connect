@@ -1,10 +1,11 @@
 # Connect
-Connect - Continuous Delivery Platform _from [ClearPoint](http://clearpoint.co.nz)_
+Connect is the Continuous Delivery Platform _from [ClearPoint](http://clearpoint.co.nz)_
+Connect gathers our best practice approaches to deploying working software with confidence.
 
 ## Overview
-This is documentation repo for Connect which can be found here: [docs.connect.cd](http://docs.connect.cd)
+This is the documentation repository for Connect. The documentation output can be found here: [docs.connect.cd](http://docs.connect.cd)
 
-## Status
+## Build Status
 [![Build Status](https://api.travis-ci.org/ClearPointNZ/connect.svg)](https://travis-ci.org/ClearPointNZ/connect)
 
 ## Help

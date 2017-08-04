@@ -4,7 +4,7 @@
 link:http://github.com/ClearPointNZ[http://github.com/ClearPointNZ]
 
 === Source repositories
-* Main boostrap and documentation https://github.com/ClearPointNZ/connect
+* Main bootstrap and documentation https://github.com/ClearPointNZ/connect
 
 === Support
-For enterprise support please contact link:http://clearpoint.co.nz[ClearPoint] or email connect@clearpoint.co.nz
+For enterprise support, please contact link:http://clearpoint.co.nz[ClearPoint] or email connect@clearpoint.co.nz

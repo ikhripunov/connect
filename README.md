@@ -1,5 +1,5 @@
 # Connect
-Connect is the Continuous Delivery Platform _from [ClearPoint](http://clearpoint.co.nz)_
+Connect is the Continuous Delivery Platform from _[ClearPoint](http://clearpoint.co.nz)_  
 Connect gathers our best practice approaches to deploying working software with confidence.
 
 ## Overview

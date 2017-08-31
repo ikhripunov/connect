@@ -2,33 +2,21 @@ image::images/connect-logo.png[]
 by link:https://clearpoint.co.nz[ClearPoint]
 
 = Connect - Continuous Delivery Platform
-Build by http://clearpoint.co.nz[ClearPoint] <connect@clearpoint.co.nz> v1.0 2017-07-07
+Built by http://clearpoint.co.nz[ClearPoint] <connect@clearpoint.co.nz> v1.0 2017-07-07
 
 The repo for this Documentation can be found on Github: https://github.com/ClearPointNZ/connect
 
 image::https://api.travis-ci.org/ClearPointNZ/connect.svg[Build Status]
 
 == Introduction
-Welcome to Connect - Continuous Delivery Platform.
+Welcome to the Connect Continuous Delivery Platform.
 
-Connect is a collection of open source projects put together to help share best practice approaches to Continuous Delivery (CD) using containerisation (via Docker), orchestrated by Kubernetes.
+Connect is a collection of open source projects put together to help share best practice approaches to Continuous Delivery (CD) using containerisation (via Docker), orchestrated and deployed by Kubernetes.
 
 The libraries are designed to be used either standalone or together and are grouped into the following areas:
 
 //TODO turn this into a table (image from connect ppt)
 image::images/connect-components.png[]
-
-include::includes/installation.adoc[]
-
-include::includes/kubernetes.adoc[]
-
-include::includes/pipeline.adoc[]
-
-include::includes/infrastructure.adoc[]
-
-include::includes/samples.adoc[]
-
-include::includes/testing.adoc[]
 
 include::includes/support.adoc[]
 

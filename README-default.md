@@ -9,6 +9,8 @@ How to install
 ## Build Status
 TravisCI link or something else - delete if not needed
 
+-------------------
+
 # Connect
 Connect is a Continuous Delivery Platform from [ClearPoint](http://clearpoint.co.nz)  
 
